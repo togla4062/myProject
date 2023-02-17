@@ -4,6 +4,31 @@
 # 인덱스 페이지 뷰
 ![image](https://user-images.githubusercontent.com/111475795/215636564-19b2526c-50e0-4cf4-9c59-afe4f8c3ed20.png)
 
+<div align="center">
+:pushpin: 사용 기술
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringData JPA-6db33f?style=flat&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303a?style=flat&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-f8dc75?style=flat&logo=Apache Tomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon RDS-527fff?style=flat&logo=Amazon RDS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon S3-567a31?style=flat&logo=Amazon S3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-ff9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon Route53-4053d6?style=flat&logo=Amazon AWS&logoColor=white"/>
+</div>
+
 ## 문대현(팀장)
 사이드배너 – 목록 슬라이드 업다운, 로그인시 사원 정보 및 이미지 출력
 
